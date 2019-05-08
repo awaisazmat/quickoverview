@@ -1,1 +1,1 @@
-Live at [http://awaisazmat.github.io](http://awaisazmat.github.io/quickoverview).
+Live at [http://awaisazmat.github.io/quickoverview](http://awaisazmat.github.io/quickoverview).
