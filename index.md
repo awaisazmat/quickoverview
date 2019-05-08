@@ -1,1 +1,1 @@
-# a blog for my blabberings
+# A blog for quickoverview of great books
