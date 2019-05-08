@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'otherbooks',
-    author: 'Alamgir Qazi',
+    title: 'quickoverview',
+    author: 'Muhammad Awais Azmat',
     description: 'A simple tech blog.',
-    siteUrl: 'https://alamgirqazi.github.io/otherbooks',
+    siteUrl: 'https://awaisazmat.github.io/quickoverview',
   },
-  pathPrefix: '/otherbooks',
+  pathPrefix: '/quickoverview',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -81,7 +81,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `otherbooks`,
+        name: `quickoverview`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
