@@ -2,7 +2,7 @@
   "name": "otherbooks",
   "description": "otherbooks",
   "version": "1.0.0",
-  "author": "Alamgir Qazi <alamgirmunirqazi@gmail.com>",
+  "author": "Muhammad Awais Azmat <awaisazmat2@gmail.com>",
   "dependencies": {
     "gatsby": "latest",
     "gatsby-plugin-feed": "^2.0.8",
@@ -38,7 +38,7 @@
     "gh-pages": "^1.2.0",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/alamgirqazi/otherbooks",
+  "homepage": "https://github.com/awaisazmat/quickoverview",
   "keywords": [
     "gatsby"
   ],
@@ -46,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alamgirqazi/otherbooks.git"
+    "url": "git+https://github.com/awaisazmat/quickoverview.git"
   },
   "scripts": {
     "dev": "gatsby develop",
