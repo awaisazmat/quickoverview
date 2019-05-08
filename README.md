@@ -1,1 +1,1 @@
-Live at [http://awaisazmat.github.io](http://awaisazmat.github.io/quickoverview).
+This blog was set up using https://github.com/gatsbyjs/gatsby-starter-blog
