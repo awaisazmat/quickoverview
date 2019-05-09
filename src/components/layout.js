@@ -26,7 +26,7 @@ class Layout extends React.Component {
             }}
             to={'/'}
           >
-            other books
+            QuickOverView
           </Link>
         </h1>
       )
