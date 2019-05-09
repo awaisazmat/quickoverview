@@ -1,4 +1,4 @@
 
-This blog was set up using https://github.com/gatsbyjs/gatsby-starter-blog
+Live at [http://awaisazmat.github.io/quickoverview](http://awaisazmat.github.io/quickoverview).
 
 
