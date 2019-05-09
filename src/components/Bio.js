@@ -3,7 +3,7 @@ import 'typeface-montserrat'
 import 'typeface-merriweather'
 
 import React from 'react'
-import profilePic from './profile-pic.jpg'
+import profilePic from './57109796_2301522480120086_590235214932869120_o.jpg'
 import { rhythm } from '../utils/typography'
 
 class Bio extends React.Component {
@@ -27,7 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-A blog for remaining books         </p>
+A blog for quickoverview of some great books.         </p>
       </div>
     )
   }
