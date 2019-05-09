@@ -1,6 +1,6 @@
 {
-  "name": "otherbooks",
-  "description": "otherbooks",
+  "name": "quickoverview",
+  "description": "quickoverview",
   "version": "1.0.0",
   "author": "Muhammad Awais Azmat <awaisazmat2@gmail.com>",
   "dependencies": {
